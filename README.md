@@ -1,7 +1,9 @@
 # Toxic Survival - Pyxel Game
 
 ## Description
-**Toxic Survival** is a 2D game developed with **Pyxel** where the player navigates a hazardous environment. The player is represented by a square and must survive as long as possible in a toxic world.
+**Toxic Survival** is a 2D game developed with **[Pyxel](https://github.com/kitao/pyxel?tab=readme-ov-file)** where the player navigates a hazardous environment. The player is represented by a square and must survive as long as possible in a toxic world.
+
+This game was created in a single day in 2022 as part of a student project during my final year of high school, in a team of three.
 
 ## Gameplay
 - **Player:** Represented as a square.
